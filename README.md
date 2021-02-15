@@ -1,3 +1,3 @@
 # Django-Blog
 
-just write pip Install
+Navigate to your file directory and write pip install
